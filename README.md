@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <img width="450px" align="right" src="https://engineering.giphy.com/wp-content/uploads/2022/07/giphy.gif" />
 
 - 👀 I’m interested in Web Developement.
-- 🌱 I’m currently learning React and Spring.
+- 🌱 Currently learning React and Spring.
 - 📫 How to reach me santoshdannana2@gmail.com
 - 🧑‍💻 I am currently working on My Portfolio
 
