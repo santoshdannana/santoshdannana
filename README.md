@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Santosh+Kumar!+%F0%9F%91%8B;Software+Developer+%7C+Full+Stack+Engineer+%7C+Cloud+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Santosh+Kumar!+%F0%9F%91%8B;Software+Developer+%7C+Full+Stack+Engineer+%7C"/>
 </p>
 
 ---
 
 # 🖊 About Me
 
-I'm a passionate and results-driven **Software Developer** with **3+ years** of experience building scalable, cloud-based, full-stack applications.
+I'm a Software Developer with over 3 years of experience building scalable, cloud-based, full-stack applications. I specialize in leveraging cutting-edge technologies like Java, Spring Boot, React, AWS, and microservices architecture to deliver impactful, high-performance solutions.
 
-- 📅 Currently pursuing **Master's in Information Systems** (GPA: 4.0) at **Saint Louis University**
-- 🚀 Worked at **Edward Jones** (US) and **Paytm** (India) developing enterprise-grade applications
-- 🌐 Skilled in ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- 🎨 Focused on building clean, maintainable, scalable systems and great user experiences
+- 🎓 Graduated with a Master's in Information Systems from Saint Louis University (GPA: 4.0)
 
-I thrive in Agile teams, love solving challenging problems, and I'm always exploring new technologies.
+- 🌎 Worked with Edward Jones (USA) and Paytm (India), delivering enterprise-grade applications that scale for millions of users.
+
+- 🚀 Passionate about building secure, efficient, and scalable systems in agile, collaborative environments.
+
+- 📈 Continuously improving my skills and embracing new challenges in the world of cloud development, microservices, and AI-powered solutions.
 
 ---
 
