@@ -52,7 +52,6 @@ I thrive in Agile teams, love solving challenging problems, and I'm always explo
 ### 🚪 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/santosh-kumar-132d/)  
-- [GitHub](https://github.com/santoshdannana)  
 - Email: santoshdannana3@gmail.com  
 
 ---
@@ -65,6 +64,3 @@ _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
 ---
 
-#SantoshKumar #SoftwareEngineer #FullStackDeveloper #Java #React #AWS #Microservices #Cloud #OpenToWork
-
----
