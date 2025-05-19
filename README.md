@@ -12,8 +12,6 @@ I'm a Software Developer with over 3 years of experience building scalable, clou
 
 - 🌎 Worked with Edward Jones (USA) and Paytm (India), delivering enterprise-grade applications that scale for millions of users.
 
-- 🚀 Passionate about building secure, efficient, and scalable systems in agile, collaborative environments.
-
 - 📈 Continuously improving my skills and embracing new challenges in the world of cloud development, microservices, and AI-powered solutions.
 
 ---
