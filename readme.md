@@ -5,7 +5,7 @@
 
 <!-- Gradient Banner Header (Purple-Matching) -->
 <p align="center" style="margin-top: -20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:7C4DFF&height=160&section=header&text=Santosh%20Kumar%20%7C%20AI%20Engineer&fontAlignY=35&fontColor=ffffff&fontSize=36&desc=GenAI%20%7C%20LLMs%20%7C%20LangChain%20%7C%20AWS%20%7C%20FastAPI&descSize=18&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:7C4DFF&height=180&section=header&text=Santosh%20Kumar%20%7C%20AI%20Engineer&fontAlignY=35&fontColor=ffffff&fontSize=36&desc=GenAI%20%7C%20LLMs%20%7C%20LangChain%20%7C%20AWS%20%7C%20FastAPI&descSize=18&descAlign=60" />
 </p>
 
 ---
