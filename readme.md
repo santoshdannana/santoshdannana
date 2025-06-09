@@ -64,14 +64,6 @@ Generate AI-based moodboards with a simple prompt. Minimal UI, quick visual outp
 
 ---
 
-### 📈 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santoshdannana/santoshdannana/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
-</p>
-
----
-
 ### 🎓 Education
 
 🎓 **Saint Louis University**  
