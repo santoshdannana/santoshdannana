@@ -21,7 +21,7 @@ I'm **Santosh Kumar**, a **Machine Learning & GenAI Engineer at Cisco**, where I
 - **RAG pipelines** using vector databases
 - Cloud deployments on **AWS** with **Docker**, **EKS**, and observability
 
-> "Real-world AI isn’t just about models—it's about shipping value at scale."
+> "Real-world AI isn’t just about models, it's about shipping value at scale."
 
 ---
 
