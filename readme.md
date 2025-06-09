@@ -1,6 +1,11 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Santosh%20Kumar%20%7C%20AI%20Engineer&fontAlignY=40&color=gradient&animation=twinkling&fontSize=36&fontColor=ffffff&desc=GenAI%20%7C%20LLMs%20%7C%20FastAPI%20%7C%20LangChain%20%7C%20AWS&descSize=18&descAlign=62" />
+<!-- Typing Animation Header -->
+<p align="center" style="margin-top: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=E040FB&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Santosh+Kumar+%F0%9F%91%8B;GenAI+Engineer+specializing+in+LangChain%2C+LLMs%2C+RAG;Crafting+AI-powered+products+from+idea+to+scale." alt="Typing Header" />
+</p>
+
+<!-- Gradient Banner Header (Purple-Matching) -->
+<p align="center" style="margin-top: -10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:7C4DFF&height=160&section=header&text=Santosh%20Kumar%20%7C%20AI%20Engineer&fontAlignY=35&fontColor=ffffff&fontSize=36&desc=GenAI%20%7C%20LLMs%20%7C%20LangChain%20%7C%20AWS%20%7C%20FastAPI&descSize=18&descAlign=60" />
 </p>
 
 ---
@@ -38,30 +43,31 @@ Generate AI-based moodboards with a simple prompt. Minimal UI, quick visual outp
 ### 🧰 Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-  <!-- AI/ML -->
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-
-  <!-- Cloud & Infra -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santoshdannana/santoshdannana/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
 </p>
 
 ---
@@ -82,13 +88,8 @@ MS in Computer and Information Sciences
 
 ---
 
-<!-- Animated Footer -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:00BCD4&height=120&section=footer&animation=twinkling"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?raw=true" alt="snake animation" style="max-width: 100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:7C4DFF&height=120&section=footer&animation=twinkling"/>
 </p>
 
